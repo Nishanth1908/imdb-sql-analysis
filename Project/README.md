@@ -24,7 +24,7 @@ The project investigates how characteristics such as runtime, genre, release per
 
 This project uses the publicly available **IMDb Non-Commercial Datasets**.
 
-For details about the datasets and tables used, see the [`dataset`](../dataset) directory.
+For details about the datasets and tables used, see the [`Dataset`](../Dataset) directory.
 
 ## Related Documentation
 
