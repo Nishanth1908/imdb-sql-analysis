@@ -41,6 +41,15 @@ Although these metrics do not measure commercial success directly, they provide 
 
 ---
 
+## Repository Structure
+
+This repository is organized into two parts:
+
+- **practice/** – SQL exercises covering joins, aggregates, subqueries, and window functions.
+- **project/** – An end-to-end exploratory analysis of the IMDb dataset using SQL.
+
+---
+
 ## Methodology
 
 This project followed a structured analytical workflow to investigate factors associated with positive audience reception using the IMDb dataset.
